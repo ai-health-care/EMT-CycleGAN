@@ -1,0 +1,9 @@
+{
+    "description": "3dr",
+    "environment": "c-arm-12",
+    "operator": "hjkrumb",
+    "samples_per_point": 500,
+    "timestamp": "200220_150051",
+    "type": "phantom",
+    "version": "0.1.0"
+}

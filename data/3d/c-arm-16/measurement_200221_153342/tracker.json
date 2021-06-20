@@ -1,0 +1,15 @@
+{
+	"type": "ATCTracker",
+	"modelstring": "6DBB4",
+	"partnumber": "600785-4",
+	"tx_modelstring": "6DBBT",
+	"tx_partnumber": "600222-H",
+	"measurement_rate": "80",
+	"metric": "1",
+	"max_range": "36",
+	"power_line_frequency": "50",
+	"filter_ac_wide": "1",
+	"filter_ac_narrow": "0",
+	"filter_dc_adaptive": "1",
+	"filter_sudden_change": "0"
+}

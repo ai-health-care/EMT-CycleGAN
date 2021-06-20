@@ -1,0 +1,9 @@
+{
+    "description": "3do",
+    "environment": "c-arm-15",
+    "operator": "hjkrumb",
+    "samples_per_point": 500,
+    "timestamp": "200221_144736",
+    "type": "phantom",
+    "version": "0.1.0"
+}
